@@ -1,0 +1,10 @@
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\bin\Debug\KurGetir.exe.config
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\bin\Debug\KurGetir.exe
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\bin\Debug\KurGetir.pdb
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.csprojResolveAssemblyReference.cache
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.Form1.resources
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.Properties.Resources.resources
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.csproj.GenerateResource.Cache
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.csproj.CoreCompileInputs.cache
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.exe
+C:\Users\PearlyDark\Documents\Visual Studio 2017\Projects\KurGetir\KurGetir\obj\Debug\KurGetir.pdb
