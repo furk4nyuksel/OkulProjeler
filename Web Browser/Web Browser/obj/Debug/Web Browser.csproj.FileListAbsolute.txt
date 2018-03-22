@@ -1,0 +1,20 @@
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\Furkan Yüksel\Documents\Visual Studio 2017\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+E:\not\Görsel Programalama 2\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
