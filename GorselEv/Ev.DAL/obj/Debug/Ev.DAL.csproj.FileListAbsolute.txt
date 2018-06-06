@@ -1,0 +1,12 @@
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\Ev.DAL.dll.config
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\Ev.DAL.dll
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\Ev.DAL.pdb
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\EntityFramework.dll
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\EntityFramework.xml
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\obj\Debug\Ev.DAL.csprojAssemblyReference.cache
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\obj\Debug\Ev.DAL.csproj.CoreCompileInputs.cache
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\obj\Debug\Ev.DAL.csproj.CopyComplete
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\obj\Debug\Ev.DAL.dll
+c:\users\pearlydark\documents\visual studio 2017\Projects\GorselEv\Ev.DAL\obj\Debug\Ev.DAL.pdb
